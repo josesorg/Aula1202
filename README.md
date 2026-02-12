@@ -2,7 +2,7 @@
 Visão do produto aqui
 
 ## PROBLEMA
-espeecifica o problema aqui
+especifica o problema aqui
 
 ## PÚBLICO
 a que o produto é direcionado aqui
